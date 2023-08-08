@@ -1,0 +1,10 @@
+{
+  "data": {
+    "windows_version": "1.0.4",
+    "windows_download_url": "https://<your host>/<your application name>.exe",
+    "macos_version": "1.0.4",
+    "macos_download_url": "https://<your host>/<your application name>.pkg",
+    "android_version": "1.0.4",
+    "android_download_url": "https://<your host>/<your application name>.apk"
+  }
+}
